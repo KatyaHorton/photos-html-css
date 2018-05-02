@@ -1,0 +1,16 @@
+.imgContainer {
+	
+	display: flex;
+}
+
+.imgLink {
+	
+	width:33.3%;
+	padding: 1em;
+}
+
+.imgLink img{
+	
+	width:100%;
+	height: inherit;
+}
